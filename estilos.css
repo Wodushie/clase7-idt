@@ -1,0 +1,52 @@
+
+h1 em
+{
+    color: darkgreen;
+}
+
+h1 > em
+{
+    color: crimson
+}
+
+p em
+{
+    color: blue;
+    background-color: orange;
+}
+
+#identificador2
+{
+    font-family: monospace;
+}
+
+#identificador
+{
+    background-color: rgb(0, 0, 0.312);
+    color: white;
+}
+
+div.apellido1
+{
+    color: yellow;
+}
+div.apellido2
+{
+    background-color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.apellido1.apellido2
+{
+    background-color: aquamarine;
+}
+
+.prueba
+{
+    font-size: 30px;
+}
+
+.contenido
+{
+    background-color: #ff0088;
+}
